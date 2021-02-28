@@ -1,5 +1,5 @@
 
-git status
+git status - prints status of the file repoistoiry
 git init
 git config --global user.name "Let's Kode It"
 git config --global user.email letscodeit@gmail.com
