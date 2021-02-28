@@ -1,0 +1,11 @@
+
+git status - prints status of the file repoistoiry
+git init - intialize reporistory11
+git config --global user.name "Let's Kode It"
+git config --global user.email letscodeit@gmail.com
+git config user.name user.name "Let's Kode It"
+git config user.email letscodeit@gmail.com
+git add
+git commit -m ""
+git log
+Git diff <filename>
